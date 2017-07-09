@@ -2,7 +2,7 @@ package br.com.webview;
 
 
 
-import br.com.teramag.R;
+import br.com.webview.R;
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;

@@ -5,7 +5,6 @@ package br.com.webview;
  * @version 1.0 
  */
 
-import br.com.teramag.R;
 import br.com.webview.*;
 
 import android.annotation.SuppressLint;

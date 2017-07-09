@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package br.com.teramag;
+package br.com.webview;
 
 public final class R {
     public static final class attr {
