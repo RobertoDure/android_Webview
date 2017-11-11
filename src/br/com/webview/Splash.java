@@ -1,7 +1,7 @@
 package br.com.webview;
 
 /* Tela para splash
- * @author: Efraim Galdino
+ * @author: Roberto Duré
  * @version 1.0 
  */
 
