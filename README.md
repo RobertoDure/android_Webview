@@ -1,4 +1,4 @@
-# Teramag Android Webview Application
+# Android Webview Application
 
 ## Introduction
 
