@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Teramag is an Android application that provides a webview component to display web content within the app. It includes a splash screen and a main webview activity.
+Android application that provides a webview component to display web content within the app. It includes a splash screen and a main webview activity.
 
 ## Features
 
